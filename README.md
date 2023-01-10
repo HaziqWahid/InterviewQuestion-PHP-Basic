@@ -2,7 +2,12 @@
 
 ### Below is the output for the websites
 
+#### Home Page
+![image](https://user-images.githubusercontent.com/93234724/211686316-e3c09326-2db2-4d91-a13e-e7b80e90b2bd.png)
+
+
 #### Abc input ( verified ) 
+- i forgot to change the coloured of the button after passing argument
 
 ![abc](https://user-images.githubusercontent.com/93234724/211674624-1c192164-bfdb-42ae-9a99-05c2d18919ed.jpg)
 
@@ -14,7 +19,7 @@
 
 ![wrong input error](https://user-images.githubusercontent.com/93234724/211674844-49e3fc3a-ead0-4ec0-b5f8-295f38e9a1c8.jpg)
 
-#under process
+# under process ==
 
 
 ### With referring to the tables above, please provide a single SQL statement to :
