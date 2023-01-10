@@ -1,8 +1,8 @@
 # Interview Question Simple PHP
 
-###Below is the output for the websites
+### Below is the output for the websites
 
-#### abc input ( verified ) 
+#### Abc input ( verified ) 
 
 ![abc](https://user-images.githubusercontent.com/93234724/211674624-1c192164-bfdb-42ae-9a99-05c2d18919ed.jpg)
 
