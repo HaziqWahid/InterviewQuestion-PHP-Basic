@@ -3,7 +3,7 @@
 ### Below is the output for the websites
 
 #### Home Page
-![image](https://user-images.githubusercontent.com/93234724/211686316-e3c09326-2db2-4d91-a13e-e7b80e90b2bd.png)
+![image](https://user-images.githubusercontent.com/93234724/211739808-65a79670-cf4c-4243-a625-3055b0d8b23e.png)
 
 
 #### Abc input ( verified ) 
